@@ -1,0 +1,5 @@
+weljo_weljo:
+    resource: "@WeljoWeljoBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
